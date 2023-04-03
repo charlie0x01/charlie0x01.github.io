@@ -17,10 +17,18 @@ h1 {
   font-size: 28px;
   font-family: "Fredoka", cursive;
 }
-
+a {
+  text-decoration: none;
+  font-size: 28px;
+  font-family: "Source Code Pro", monospace;
+  color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.2);
+  border-bottom: rgba(255, 255, 255, 0.5) solid 1px;
+}
 p,
 h3,
 h4,
+a,
 h5 {
   font-family: "PT Sans", sans-serif;
 }
